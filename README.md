@@ -1,2 +1,2 @@
-# Javascript-Chess-Game
-Javascript Chess Game exercise
+# Javascript-Hash-Game
+Javascript Hash Game exercise
